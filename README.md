@@ -1,1 +1,1 @@
-# Tirkiye_Student_Evaluation_using_ML
+# Turkiye_Student_Evaluation_using_ML
